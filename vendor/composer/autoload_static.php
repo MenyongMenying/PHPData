@@ -9,12 +9,12 @@ class ComposerStaticInit3615268cfd1f86723f3fa2bb2a02cc56
     public static $prefixLengthsPsr4 = array (
         'M' => 
         array (
-            'MenyongMenying\\Data\\' => 20,
+            'MenyongMenying\\MenyongMenyingLibrary\\PHP\\Data\\' => 46,
         ),
     );
 
     public static $prefixDirsPsr4 = array (
-        'MenyongMenying\\Data\\' => 
+        'MenyongMenying\\MenyongMenyingLibrary\\PHP\\Data\\' => 
         array (
             0 => __DIR__ . '/../..' . '/src',
         ),

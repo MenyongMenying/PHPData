@@ -1,7 +1,7 @@
 <?php
 
 
-namespace MenyongMenying\Data;
+namespace MenyongMenying\MenyongMenyingLibrary\PHP\Data;
 
 use ArrayAccess;
 use Exception;

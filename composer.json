@@ -4,7 +4,7 @@
     "type": "library",
     "autoload": {
         "psr-4": {
-            "MenyongMenying\\Data\\": "src/"
+            "MenyongMenying\\MenyongMenyingLibrary\\PHP\\Data\\": "src/"
         }
     },
     "authors": [
