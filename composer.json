@@ -1,5 +1,5 @@
 {
-    "name": "menyong-menying/data",
+    "name": "menyong-menying/php-data",
     "description": "MenyongMenying library data handler",
     "type": "library",
     "autoload": {
